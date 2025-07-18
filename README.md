@@ -31,7 +31,7 @@
 - 🇺🇦 Ukrainian – Native  
 - 🇷🇺 Russian – Fluent  
 - 🇬🇧 English – Intermediate (B1, improving)  
-- 🇵🇱 Polish – Advanced (B2)
+- 🇵🇱 Polish – Advanced (B2) 
 
 ---
 
@@ -77,7 +77,12 @@ Full-stack calendar with AI integration, built with React, .NET 9, Docker, Rende
 - 🔗 [LinkedIn](http://www.linkedin.com/in/olesia-kubska)  
 - 🌐 [Portfolio Website](https://olesiakubska.github.io/olesia-kubska-portfolio)  
 - 🐙 GitHub: [@OlesiaKubska](https://github.com/OlesiaKubska)
+- 📱 Telegram: [@olesiakubska](https://t.me/olesiakubska)
 
 ---
+
+### 📊 GitHub Stats
+
+![Olesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlesiaKubska&show_icons=true&theme=tokyonight)
 
 Thank you for visiting my profile! 🌟 Let's build something meaningful together.

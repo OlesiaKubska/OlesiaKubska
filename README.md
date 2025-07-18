@@ -81,8 +81,10 @@ Full-stack calendar with AI integration, built with React, .NET 9, Docker, Rende
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Olesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlesiaKubska&show_icons=true&theme=tokyonight)
+
+---
 
 Thank you for visiting my profile! 🌟 Let's build something meaningful together.

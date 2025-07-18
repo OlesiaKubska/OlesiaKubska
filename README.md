@@ -1,5 +1,7 @@
 # 👩‍💻 Olesia Kubska – Full Stack Developer
 
+<img src="Baner.png" alt="Full Stack Developer Banner" width="100%" />
+
 🚀 I am a Junior Full Stack Developer with hands-on experience building full stack applications during intensive training and team-based projects. I bring a creative mindset from my background in arts and music, combined with solid technical skills and proactive collaboration in Agile environments.
 
 ---
